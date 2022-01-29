@@ -1,5 +1,6 @@
 # RGBTask
 Automate Conflicting RGB Software
+RGBFusion / GSkill Trident Z
 
  1. Download RGBTask.ps1 and place it in a static folder
  2. Open Task Scheduler
