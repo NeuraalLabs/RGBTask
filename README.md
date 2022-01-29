@@ -8,5 +8,4 @@ Automate Conflicting RGB Software
  5. Click Triggers > New > At Log On
  6. Click Actions > New > Start a program
  7. program/script: powershell.exe
- 8. Add arguments: [path to RGBTask.ps1]
-
+ 8. Add arguments: -WindowStyle Hidden "<path to RGBTask.ps1>"
